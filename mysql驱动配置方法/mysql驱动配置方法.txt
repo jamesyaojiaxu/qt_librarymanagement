@@ -1,0 +1,14 @@
+
+如果已经安装qt,请参考文章:https://github.com/thecodemonkey86/qt_mysql_driver
+
+如果没有,首先安装qt 
+点击qt-unified-windows-x86-online.exe
+安装qt必须注册qt账号 
+安装时qt版本选择6.2.1,编译器勾选mingw_64
+
+然后安装mysql(略)(如果连接的服务器已装MySQL,则可跳过此步)(我的服务器已装)
+
+最后打开./qsqlmysql.dll_Qt_SQL_driver_6.2.1_MinGW_8.1.0_64-bit (2)/debug
+假如qt安装目录是C:\QT
+则将debug\sqldriver文件夹中的文件放入C:\Qt\qt6.2\6.2.1\mingw81_64\bin\plugin\sqldriver
+debug文件夹中的其他文件放入C:\Qt\qt6.2\6.2.1\mingw81_64\bin

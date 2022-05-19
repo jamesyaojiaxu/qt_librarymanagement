@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/user.png</file>
+        <file>image/search.png</file>
+        <file>image/usercentre-removebg-preview.png</file>
+        <file>image/images.jpg</file>
+        <file>image/usermanage.png</file>
+        <file>image/book.jpg.png</file>
+        <file>image/GettyImages-577674005 (1).jpg</file>
+        <file>image/library.PNG</file>
+        <file>image/search1.png</file>
+        <file>image/1000_F_329184882_shyhXzjUcI9RdX65zBD2XJAJhqh9qwmY.jpg</file>
+    </qresource>
+</RCC>

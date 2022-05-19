@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/reader.o
+debug/admin.o
+debug/searchbox.o
+debug/qrc_res.o
+debug/moc_mainwindow.o
+debug/moc_reader.o
+debug/moc_admin.o
+debug/moc_searchbox.o

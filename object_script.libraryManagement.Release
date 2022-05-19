@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/reader.o
+release/admin.o
+release/searchbox.o
+release/qrc_res.o
+release/moc_mainwindow.o
+release/moc_reader.o
+release/moc_admin.o
+release/moc_searchbox.o
