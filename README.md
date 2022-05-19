@@ -8,11 +8,11 @@
 
 #### 图书管理
 
-![](C:\Users\Administrator\AppData\Roaming\marktext\images\2022-05-19-21-09-58-image.png)
+![](images\2022-05-19-21-09-58-image.png)
 
 #### 用户管理
 
-![](C:\Users\Administrator\AppData\Roaming\marktext\images\2022-05-19-21-11-29-image.png)
+![](images\2022-05-19-21-11-29-image.png)
 
 ### 
 
@@ -20,11 +20,11 @@
 
 #### 图书搜索
 
-![](C:\Users\Administrator\AppData\Roaming\marktext\images\2022-05-19-21-34-32-image.png)
+![](images\2022-05-19-21-34-32-image.png)
 
 #### 搜索结果
 
-![](C:\Users\Administrator\AppData\Roaming\marktext\images\2022-05-19-21-36-06-image.png)
+![](images\2022-05-19-21-36-06-image.png)
 
 ## 主要功能
 
@@ -36,7 +36,7 @@
 
 ## 代码说明
 
-![](C:\Users\Administrator\Desktop\1.png)
+![](images\1.png)
 
 ## 项目部署
 
@@ -51,4 +51,3 @@
 5.在mainwindow.cpp中修改数据库ip地址,账号,密码
 
 6.运行(管理默认账号:admin 密码:admin         用户默认账号:20201001 密码:111111)
-# qt_librarymanagement
